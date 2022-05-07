@@ -1,0 +1,1 @@
+[Current State is : Normal Display, Current innerState is : Date, DATE: 2000 - 1 - 1, TIME: 0 : 0, Current State is : Normal Display, Current innerState is : Time, DATE: 2000 - 1 - 1, TIME: 0 : 0, Current State is : Normal Display, Current innerState is : Date, DATE: 2000 - 1 - 1, TIME: 0 : 0]
